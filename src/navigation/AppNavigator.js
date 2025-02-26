@@ -9,3 +9,5 @@
 # PR Merge: 2025-10-20 - enhancement/merge-5036
 
 # PR Merge: 2025-10-20 - docs/merge-1143
+
+# PR Merge: 2025-10-20 - fix/merge-8243
