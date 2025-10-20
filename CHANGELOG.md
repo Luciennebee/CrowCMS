@@ -9,3 +9,5 @@ Generated documentation for CrowCMS.
 # PR Merge: 2025-10-20 - docs/merge-8937
 
 # PR Merge: 2025-10-20 - refactor/merge-7322
+
+# PR Merge: 2025-10-20 - enhancement/merge-6472
